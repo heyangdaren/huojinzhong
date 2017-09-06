@@ -1,0 +1,14 @@
+{
+    "name": "heyangdaren/huojinzhong",
+    "description": "this is a PHP demo",
+    "type": "project",
+    "license": "min",
+    "authors": [
+        {
+            "name": "heyangdaren",
+            "email": "1070094383@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
